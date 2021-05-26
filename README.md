@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on my portfolio, it has many projects some are games and some are solutions to hypothetical problems, they are made in React Native.
+
 <!--
 **Orlando17544/Orlando17544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
