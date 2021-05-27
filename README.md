@@ -1,6 +1,10 @@
+Hola!!
+
+🔭 He hecho un proyecto en react native para un cliente en la empresa Hackademy, actualmente estoy trabajando en mi portafolio con React Native.
+
 ### Hi there 👋
 
-🔭 I’m currently working on my portfolio, it has many projects some are games and some are solutions to hypothetical problems, they are made in React Native.
+🔭 I have made a project in react native for a client in the company Hackademy, I’m currently working on my portfolio with React Native. 
 
 <!--
 **Orlando17544/Orlando17544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
