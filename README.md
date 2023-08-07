@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-Mobile developer with 2 years of experience in React Native and Android in two companies: Hackademy y Workana. I have developed 3 mobile apps with React Native and javascript, 2 with Android and Kotlin and fixed bugs of a React Native app.
+Hello, I'm a software developer with +2 years of experience. I currently work as a Machine Learning developer with the following stack of technologies: Python, Numpy, Pandas, Scikit-learn, Keras, PyTorch, Tensorflow, Docker and AWS.
 
-I love applying responsive design principles and watching my mobile applications shrink into different screen resolutions and still look amazing. It's oddly satisfying. I think in a way I'm kind of like those mobile applications; I'm moldable, but I still keep my creative flare intact.
+I previously worked in the mobile development area, using two technologies: React Native and Android.
 
-My specialties include quickly learning new skills and programming languages, problem solving, responsive design principles and the Model View View Model (MVVM) method of organizing code. So far I have Java, Kotlin, SQL, JavaScript, TypeScript, React Native, Redux and Git/GitHub under my belt. I'm still enthusiastically grabbing onto any other programming languages, frameworks, or principles I can integrate into the coding mobile in my head.
+I decided to orient my career to a ML/Data Science position because I really like to work with programming and maths. I consider myself an analytical person, lifelong learner, with a growth mindset and the get-the-job done attitude. 
+
+I also have a bachelor's degree in Civil Engineering and Computer Science.
+
+Feel free to contact me at orcj17544@gmail.com
